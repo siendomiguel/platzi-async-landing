@@ -1,7 +1,7 @@
 {
   "name": "platzi-async-landing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este es un proyecto realizado en el curso de asincronismo con JavaScript",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d src"
